@@ -1,0 +1,15 @@
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.csproj.AssemblyReference.cache
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.AssemblyInfoInputs.cache
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.AssemblyInfo.cs
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.csproj.CoreCompileInputs.cache
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\bin\Debug\net6.0\task35.exe
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\bin\Debug\net6.0\task35.deps.json
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\bin\Debug\net6.0\task35.runtimeconfig.json
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\bin\Debug\net6.0\task35.dll
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\bin\Debug\net6.0\task35.pdb
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.dll
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\refint\task35.dll
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.pdb
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\task35.genruntimeconfig.cache
+C:\Users\sbond\Desktop\gb\2826\seminar5\task35dz\obj\Debug\net6.0\ref\task35.dll
